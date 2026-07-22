@@ -1,1 +1,22 @@
-Day 1: AWS Global Infrastructure Notes
+# Day 01 - AWS Global Infrastructure
+
+## Topics Covered
+- What is AWS?
+- Regions
+- Availability Zones
+- Edge Locations
+- Global Infrastructure
+
+## Hands-on
+- Explored AWS Global Infrastructure
+- Learned how Regions and AZs work
+
+## Key Learnings
+- AWS Regions are geographically separated.
+- Availability Zones provide high availability.
+- Edge Locations improve content delivery.
+
+## Interview Questions
+1. What is an AWS Region?
+2. What is an Availability Zone?
+3. Difference between Region and Availability Zone?
