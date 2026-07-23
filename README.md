@@ -47,8 +47,8 @@ Hi, I'm **Sumit Saxena**
 | Day 11 | Security Groups | ✅ |
 | Day 12 | NACL | ✅ |
 | Day 13 | CloudWatch | ✅ |
-| Day 14 | Load Balancer | ⏳ |
-| Day 15 | Auto Scaling | ⏳ |
+| Day 14 | Load Balancer | ✅ |
+| Day 15 | Auto Scaling | ✅ |
 
 ---
 
