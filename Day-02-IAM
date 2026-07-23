@@ -1,0 +1,25 @@
+# Day 02 - AWS Identity and Access Management (IAM)
+
+## Topics Covered
+- What is IAM?
+- IAM Users
+- IAM Groups
+- IAM Roles
+- IAM Policies
+- Root User vs IAM User
+- Multi-Factor Authentication (MFA)
+
+## Hands-on
+- Created an IAM User
+- Assigned Permissions
+- Explored Managed Policies
+
+## Key Learnings
+- IAM provides secure access to AWS resources.
+- Follow the Principle of Least Privilege.
+- Avoid using the Root User for daily tasks.
+
+## Interview Questions
+1. What is IAM?
+2. Difference between IAM User and IAM Role?
+3. What is the Principle of Least Privilege?
