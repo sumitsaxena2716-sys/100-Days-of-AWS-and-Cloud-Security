@@ -1,0 +1,32 @@
+# Day 03 - Amazon EC2 (Elastic Compute Cloud)
+
+## Topics Covered
+- What is Amazon EC2?
+- EC2 Instance Types
+- AMI (Amazon Machine Image)
+- Key Pair
+- Security Groups
+- Instance States (Launch, Stop, Start, Reboot, Terminate)
+
+## Hands-on
+- Launched an EC2 Instance
+- Connected to the Instance
+- Configured a Security Group
+- Started and Stopped an Instance
+
+## Key Learnings
+- EC2 is a virtual server in AWS.
+- AMI is used to launch an EC2 instance.
+- Security Groups act as virtual firewalls.
+- EC2 provides scalable compute capacity.
+
+## Interview Questions
+1. What is Amazon EC2?
+2. What is an AMI?
+3. Difference between Stop, Reboot, and Terminate?
+4. What is a Security Group?
+5. Why do we use EC2?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
