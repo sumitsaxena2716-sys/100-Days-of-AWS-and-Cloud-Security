@@ -1,0 +1,34 @@
+# Day 04 - Amazon Simple Storage Service (Amazon S3)
+
+## Topics Covered
+- What is Amazon S3?
+- Buckets and Objects
+- Object Storage
+- Storage Classes
+- Versioning
+- Lifecycle Policies
+- Static Website Hosting
+
+## Hands-on
+- Created an S3 Bucket
+- Uploaded Objects
+- Explored Bucket Permissions
+- Enabled Versioning
+
+## Key Learnings
+- Amazon S3 is an object storage service.
+- Data is stored as objects inside buckets.
+- S3 provides high durability and scalability.
+- Versioning helps recover deleted or overwritten objects.
+- Lifecycle policies automate object transitions and deletion.
+
+## Interview Questions
+1. What is Amazon S3?
+2. What is the difference between S3 and EBS?
+3. What is Versioning in S3?
+4. What are S3 Storage Classes?
+5. Can S3 be used for static website hosting?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
