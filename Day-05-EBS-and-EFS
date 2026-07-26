@@ -1,0 +1,34 @@
+# Day 05 - Amazon EBS & Amazon EFS
+
+## Topics Covered
+- What is Amazon EBS?
+- What is Amazon EFS?
+- Block Storage vs File Storage
+- EBS Volume Types
+- EBS Snapshots
+- EFS Mount Targets
+- Use Cases of EBS & EFS
+
+## Hands-on
+- Explored Amazon EBS Volumes
+- Learned how to create EBS Snapshots
+- Explored Amazon EFS
+- Understood EBS and EFS architecture
+
+## Key Learnings
+- Amazon EBS is block storage used with EC2 instances.
+- Amazon EFS is a managed file storage service.
+- EBS can be attached to one EC2 instance (in most common scenarios).
+- EFS can be mounted on multiple EC2 instances simultaneously.
+- Snapshots are used to back up EBS volumes.
+
+## Interview Questions
+1. What is Amazon EBS?
+2. What is the difference between EBS and EFS?
+3. What is an EBS Snapshot?
+4. Can multiple EC2 instances use the same EBS volume?
+5. When should you use EFS instead of EBS?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
