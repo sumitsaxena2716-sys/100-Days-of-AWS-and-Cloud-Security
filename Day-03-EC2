@@ -6,7 +6,7 @@
 - AMI (Amazon Machine Image)
 - Key Pair
 - Security Groups
-- Instance States (Launch, Stop, Start, Reboot, Terminate)
+- Instance States (Launch, Stop, Start, Reboot, Terminate) 
 
 ## Hands-on
 - Launched an EC2 Instance
