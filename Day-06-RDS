@@ -1,0 +1,34 @@
+# Day 06 - Amazon Relational Database Service (Amazon RDS)
+
+## Topics Covered
+- What is Amazon RDS?
+- Supported Database Engines
+- Multi-AZ Deployment
+- Read Replicas
+- Automated Backups
+- Snapshots
+- High Availability
+
+## Hands-on
+- Explored Amazon RDS Console
+- Learned how to create an RDS Instance
+- Explored Multi-AZ Deployment
+- Understood Automated Backups and Snapshots
+
+## Key Learnings
+- Amazon RDS is a managed relational database service.
+- AWS handles patching, backups, and maintenance.
+- Multi-AZ improves high availability.
+- Read Replicas improve read performance.
+- RDS supports MySQL, PostgreSQL, MariaDB, Oracle, SQL Server, and Amazon Aurora.
+
+## Interview Questions
+1. What is Amazon RDS?
+2. What is the difference between RDS and EC2-hosted databases?
+3. What is Multi-AZ in RDS?
+4. What is the difference between Multi-AZ and Read Replica?
+5. Which database engines are supported by Amazon RDS?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
