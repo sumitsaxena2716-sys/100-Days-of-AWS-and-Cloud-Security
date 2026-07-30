@@ -1,0 +1,32 @@
+# Day 07 - Amazon Virtual Private Cloud (Amazon VPC)
+
+## Topics Covered
+- What is Amazon VPC?
+- Public and Private Subnets
+- Internet Gateway (IGW)
+- Route Tables
+- Security Groups
+- Network ACLs (NACL)
+
+## Hands-on
+- Explored Amazon VPC Dashboard
+- Learned Public and Private Subnets
+- Understood Route Tables and Internet Gateway
+
+## Key Learnings
+- Amazon VPC provides an isolated virtual network.
+- Public subnets allow internet access.
+- Private subnets are used for internal resources.
+- Security Groups protect EC2 instances.
+- NACLs provide subnet-level security.
+
+## Interview Questions
+1. What is Amazon VPC?
+2. Difference between Public and Private Subnet?
+3. Difference between Security Group and NACL?
+4. What is an Internet Gateway?
+5. What is a Route Table?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
