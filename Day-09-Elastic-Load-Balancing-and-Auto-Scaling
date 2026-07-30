@@ -1,0 +1,29 @@
+# Day 09 - Elastic Load Balancing & Auto Scaling
+
+## Topics Covered
+- What is Elastic Load Balancing (ELB)?
+- Application Load Balancer (ALB)
+- Auto Scaling Group (ASG)
+- High Availability
+- Scalability
+
+## Hands-on
+- Explored Load Balancer
+- Learned Auto Scaling
+- Understood traffic distribution
+
+## Key Learnings
+- Load Balancer distributes incoming traffic.
+- Auto Scaling automatically launches or terminates EC2 instances.
+- Together they improve High Availability and Scalability.
+
+## Interview Questions
+1. What is Elastic Load Balancing?
+2. Why do we use Auto Scaling?
+3. Difference between High Availability and Scalability?
+4. How do CloudWatch and Auto Scaling work together?
+5. Explain the architecture of ALB + Auto Scaling Group.
+
+## References
+- AWS Skill Builder
+- AWS Documentation
