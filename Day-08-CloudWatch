@@ -1,0 +1,31 @@
+# Day 08 - Amazon CloudWatch
+
+## Topics Covered
+- What is Amazon CloudWatch?
+- Metrics
+- CloudWatch Alarms
+- Threshold
+- Evaluation Period
+- Monitoring EC2 and EBS
+
+## Hands-on
+- Explored CloudWatch Dashboard
+- Learned Metrics and Alarms
+- Monitored EC2 and EBS Metrics
+
+## Key Learnings
+- CloudWatch monitors AWS resources.
+- Metrics provide performance data.
+- Alarms notify when thresholds are exceeded.
+- EC2 and EBS can both be monitored.
+
+## Interview Questions
+1. What is Amazon CloudWatch?
+2. What is a Metric?
+3. What is a CloudWatch Alarm?
+4. Difference between EC2 Metrics and EBS Metrics?
+5. What is Threshold and Evaluation Period?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
