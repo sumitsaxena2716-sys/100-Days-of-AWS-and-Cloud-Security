@@ -1,0 +1,66 @@
+# Day 10 - AWS Technical Essentials Revision & Architecture
+
+## Topics Covered
+- AWS Global Infrastructure
+- IAM
+- Amazon EC2
+- Amazon S3
+- Amazon EBS & Amazon EFS
+- Amazon RDS
+- Amazon VPC
+- Amazon CloudWatch
+- Elastic Load Balancing (ELB)
+- Auto Scaling
+
+## Mini Architecture
+
+Users
+   │
+   ▼
+Application Load Balancer
+   │
+   ▼
+Auto Scaling Group
+   │
+ ┌─┴─────────────┐
+ │               │
+EC2 Instance   EC2 Instance
+ │               │
+ └──────┬────────┘
+        ▼
+Amazon RDS
+
+Static Files → Amazon S3
+
+Monitoring → Amazon CloudWatch
+
+Networking → Amazon VPC
+
+## Key Learnings
+- IAM manages secure access.
+- EC2 hosts applications.
+- S3 stores static files and backups.
+- EBS provides block storage.
+- EFS provides shared file storage.
+- RDS manages relational databases.
+- VPC isolates network resources.
+- CloudWatch monitors AWS services.
+- ELB distributes traffic.
+- Auto Scaling adjusts resources automatically.
+
+## Mini Project Idea
+Deploy a simple web application using:
+- Amazon EC2
+- Amazon S3
+- Amazon RDS
+- Amazon VPC
+- CloudWatch
+- ELB
+- Auto Scaling
+
+## Interview Questions
+1. Explain a three-tier AWS architecture.
+2. How do ELB and Auto Scaling work together?
+3. Difference between EBS, EFS and S3?
+4. Why is IAM important?
+5. Explain the role of CloudWatch
