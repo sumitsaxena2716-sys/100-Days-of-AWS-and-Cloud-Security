@@ -1,0 +1,35 @@
+# Day 11 - AWS Well-Architected Framework
+
+## Topics Covered
+- Introduction to AWS Well-Architected Framework
+- Six Pillars
+- General Design Principles
+- Benefits of Well-Architected Framework
+
+## Hands-on
+- Explored the AWS Well-Architected Framework concepts.
+- Understood the six pillars and their purpose.
+
+## Key Learnings
+- Helps build secure, reliable, efficient, and cost-effective cloud workloads.
+- Provides best practices for designing AWS architectures.
+- Used to evaluate workloads and identify improvement areas.
+
+## Six Pillars
+- Operational Excellence
+- Security
+- Reliability
+- Performance Efficiency
+- Cost Optimization
+- Sustainability
+
+## Interview Questions
+1. What is the AWS Well-Architected Framework?
+2. Name the six pillars.
+3. Why is it important?
+4. What are the benefits of using it?
+5. Which pillar focuses on reducing costs?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
