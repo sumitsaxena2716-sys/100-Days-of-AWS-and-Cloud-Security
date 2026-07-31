@@ -1,6 +1,6 @@
 # ☁️ 100 Days of AWS & Cloud Security
 
-> Building real-world AWS skills, Cloud Security knowledge, hands-on labs, and projects every day.
+> A structured 100-day journey to master AWS, Cloud Security, and Solutions Architecture through hands-on labs, real-world projects, architecture diagrams, and daily GitHub documentation.
 
 ---
 
@@ -8,11 +8,13 @@
 
 Hi, I'm **Sumit Saxena**
 
-🎓 BCA (AI & Data Science)
+🎓 BCA (Artificial Intelligence & Data Science)
 
 ☁️ AWS & Cloud Security Enthusiast
 
 🐍 Python Developer
+
+🏗️ Building Real-World Cloud Projects
 
 🎯 Goal: Become a Cloud Security Engineer
 
@@ -20,50 +22,61 @@ Hi, I'm **Sumit Saxena**
 
 # 🚀 Challenge Goals
 
-- Complete AWS Technical Essentials
-- Prepare for AWS SAA-C03
-- Learn Cloud Security
-- Complete Hands-on Labs
-- Build AWS Projects
-- Deploy Projects on AWS
-- Document Daily Learning
+- ✅ Complete AWS Technical Essentials
+- 🎯 Prepare for AWS Certified Solutions Architect – Associate (SAA-C03)
+- 🔐 Learn AWS Cloud Security
+- 🛠️ Perform Hands-on Labs
+- ☁️ Build & Deploy Real AWS Projects
+- 📖 Document Daily Learning
+- 💼 Prepare for Placements
 
 ---
 
 # 📅 Progress
 
-| Day | Topics | Status |
-|------|---------|--------|
-| Day 1 | AWS Global Infrastructure | ✅ |
-| Day 2 | IAM Users & Groups | ✅ |
-| Day 3 | IAM Policies | ✅ |
-| Day 4 | EC2 | ✅ |
-| Day 5 | S3 | ✅ |
-| Day 6 | EBS | ✅ |
-| Day 7 | EFS | ✅ |
-| Day 8 | RDS | ✅ |
-| Day 9 | VPC | ✅ |
-| Day 10 | Public & Private Subnet | ✅ |
-| Day 11 | Security Groups | ✅ |
-| Day 12 | NACL | ✅ |
-| Day 13 | CloudWatch | ✅ |
-| Day 14 | Load Balancer | ✅ |
-| Day 15 | Auto Scaling | ✅ |
+## ✅ Phase 1 — AWS Technical Essentials (Completed)
+
+- AWS Global Infrastructure
+- IAM
+- EC2
+- S3
+- EBS & EFS
+- RDS
+- VPC
+- Security Groups
+- NACL
+- CloudWatch
+- Elastic Load Balancer
+- Auto Scaling
+
+## 🚀 Phase 2 — AWS SAA-C03 (In Progress)
+
+- AWS Well-Architected Framework
+- AWS Well-Architected Review
+- AWS Well-Architected Tool
+- Advanced AWS Services
+- Architecture Best Practices
+- Design Scenarios
 
 ---
 
 # 📂 Repository Structure
 
-- 📚 Daily Notes
-- 🛠️ Hands-on Labs
-- 📷 Screenshots
-- 🏗️ Mini Projects
-- ☁️ AWS Architectures
-- 📜 Certificates
+📚 Daily Notes
+
+🛠️ Hands-on Labs
+
+🏗️ Real AWS Projects
+
+📷 Architecture Diagrams & Screenshots
+
+❓ Interview Questions
+
+📜 AWS Certificates
 
 ---
 
-# 🛠️ AWS Services Covered
+# ☁️ AWS Services Covered
 
 - IAM
 - EC2
@@ -75,13 +88,19 @@ Hi, I'm **Sumit Saxena**
 - Security Groups
 - NACL
 - CloudWatch
-- Load Balancer
+- Elastic Load Balancing (ELB)
 - Auto Scaling
+- Route 53
 - Lambda
-- Route53
 - CloudTrail
 - CloudFormation
 
+> More AWS services will be added as I progress through my AWS SAA-C03 and Cloud Security journey.
+
 ---
 
-⭐ Follow my journey as I learn AWS & Cloud Security.
+## 🎯 End Goal
+
+Become a Cloud Security Engineer with strong AWS fundamentals, hands-on experience, real-world projects, and a professional GitHub portfolio.
+
+⭐ Follow my journey as I build expertise in AWS, Cloud Security, and Solutions Architecture.
