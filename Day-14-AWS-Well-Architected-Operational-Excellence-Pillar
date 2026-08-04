@@ -1,0 +1,41 @@
+# Day 14 - AWS Well-Architected Operational Excellence Pillar
+
+## Topics Covered
+- Operational Excellence Overview
+- Organization
+- Prepare
+- Design Telemetry
+- Design for Operations
+- Mitigate Deployment Risks
+- Operational Readiness Review (ORR)
+- Update Readiness Review (URR)
+- Understanding Workload Health
+- Understanding Operational Health
+- Key Performance Indicators (KPIs)
+- Responding to Events
+- Continuous Improvement
+
+## Hands-on
+- Learned Operational Excellence best practices.
+- Understood ORR and URR concepts.
+- Explored workload and operational health monitoring.
+- Learned the importance of telemetry and KPIs.
+
+## Key Learnings
+- Operational Excellence focuses on running and improving workloads efficiently.
+- Telemetry helps monitor applications using metrics, logs, and events.
+- KPIs measure workload performance.
+- ORR ensures production readiness.
+- URR ensures update readiness.
+- Continuous improvement is a core AWS best practice.
+
+## Interview Questions
+1. What is the Operational Excellence Pillar?
+2. What is Telemetry?
+3. Difference between ORR and URR?
+4. What is a KPI?
+5. Difference between Workload Health and Operational Health?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
