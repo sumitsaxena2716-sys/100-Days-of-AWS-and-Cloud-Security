@@ -1,0 +1,41 @@
+# Day 15 - AWS Well-Architected Security Pillar
+
+## Topics Covered
+- Security Pillar Overview
+- Security Design Principles
+- Shared Responsibility Model
+- AWS Account Management
+- Identity and Access Management (IAM)
+- Permissions Management
+- Detection
+- Infrastructure Protection
+- Network Protection
+- Compute Protection
+- Data Protection
+- Protecting Data at Rest
+- Protecting Data in Transit
+- Incident Response
+- Application Security
+
+## Hands-on
+- Learned AWS Security best practices.
+- Explored IAM and permissions management.
+- Understood data protection and incident response concepts.
+
+## Key Learnings
+- Security is a shared responsibility between AWS and customers.
+- IAM follows the Principle of Least Privilege.
+- Encrypt data both at rest and in transit.
+- Monitor workloads using logs, metrics, and security services.
+- Prepare for incidents with response plans and regular testing.
+
+## Interview Questions
+1. What is the AWS Shared Responsibility Model?
+2. What is the Principle of Least Privilege?
+3. Difference between data at rest and data in transit?
+4. Why is IAM important?
+5. What is the purpose of Incident Response?
+
+## References
+- AWS Skill Builder
+- AWS Documentation
