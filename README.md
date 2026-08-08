@@ -1,4 +1,4 @@
-# ☁️ 100 Days of AWS & Cloud Security
+# ☁️ 100 Days of AWS & Cloud Security 
 
 > A structured 100-day journey to master AWS, Cloud Security, and Solutions Architecture through hands-on labs, real-world projects, architecture diagrams, and daily GitHub documentation.
 
